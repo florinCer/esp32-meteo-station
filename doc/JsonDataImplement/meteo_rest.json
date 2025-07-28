@@ -1,0 +1,17 @@
+{
+    "sensor": {
+        "id": "dtd11_1",
+        "name": "DTH11 Sensor",
+        "status": "active",
+        "data": {
+            "temperature": {
+                "unit": "Celsius",
+                "value": 22.5
+            },
+            "humidity": {
+                "unit": "%",
+                "value": 45
+            }
+        }
+    }
+}
