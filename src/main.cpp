@@ -35,8 +35,8 @@
 #define LED_STATUS 1                                  // enable LED status output for debug purpose
 #define SENSOR_DATA_TO_SERIAL 0                       // enable serial debug output for sensor data(can be disabled to avoid flooding the serial output)
 #define WIFI_CONNECT_TIMEOUT 10 * 1000                // ms to seconds timeout for WiFi connection
-#define WIFI_SSID "TP-Link_2F40"                      // replace with your WiFi SSID
-#define WIFI_PASSWORD "70776690"                      // replace with your WiFi password
+#define WIFI_SSID "your_ssid"                      // replace with your WiFi SSID
+#define WIFI_PASSWORD "password"                      // replace with your WiFi password
 #define ESP_32_HOSTNAME "Esp_32_MeteoStation_server"  // hostname for the ESP32 device
 #define MAX_OUTPUT_SIZE 300                           // max output size for JSON serialization
 // pin mappings
